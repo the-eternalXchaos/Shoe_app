@@ -17,9 +17,9 @@ A clean Flutter shopping app showcasing a shoe catalog, product details, and a s
 Centered and resized so multiple images appear in the same row on wider screens and wrap nicely on smaller ones.
 
 <p align="center">
-  <img src="./screenshots/homeScreen.png" alt="Home Screen" height="180" />
-  <img src="./screenshots/ProductDetails.png" alt="Product Details" height="180" />
-  <img src="./screenshots/carts.png" alt="Cart Screen" height="180" />
+  <img src="./screenshots/homeScreen.png" alt="Home Screen" height="400" />
+  <img src="./screenshots/ProductDetails.png" alt="Product Details" height="400" />
+  <img src="./screenshots/carts.png" alt="Cart Screen" height="400" />
   
 </p>
 
