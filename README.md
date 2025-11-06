@@ -1,5 +1,69 @@
 # Shoe App 👟
 
+A clean Flutter shopping app showcasing a shoe catalog, product details, and a simple cart.
+
+---
+
+## Features
+
+- Product catalog with images, descriptions, and pricing
+- Product details page with add-to-cart
+- Shopping cart with quantity updates
+
+---
+
+## Screenshots 📸
+
+Centered and resized so multiple images appear in the same row on wider screens and wrap nicely on smaller ones.
+
+<p align="center">
+  <img src="./screenshots/homeScreen.png" alt="Home Screen" height="180" />
+  <img src="./screenshots/ProductDetails.png" alt="Product Details" height="180" />
+  <img src="./screenshots/carts.png" alt="Cart Screen" height="180" />
+  
+</p>
+
+### Brand logos
+
+<p align="center">
+  <img src="./assets/images/nike.png" alt="Nike" height="60" />
+  <img src="./assets/images/puma.png" alt="Puma" height="60" />
+  <img src="./assets/images/addidas.png" alt="Adidas" height="60" />
+  <img src="./assets/images/goldstar.png" alt="Goldstar" height="60" />
+</p>
+
+---
+
+## Getting started
+
+Prerequisites: Flutter SDK and a supported editor (VS Code, Android Studio).
+
+1) Clone and open the project
+
+```powershell
+git clone https://github.com/the-eternalXchaos/shoe_app.git
+cd "shoe_app"
+```
+
+2) Fetch packages and run
+
+```powershell
+flutter pub get
+flutter run
+```
+
+---
+
+## Notes
+
+- Images use relative paths (`./screenshots/*` and `./assets/images/*`). If you move images, update paths accordingly.
+- Heights can be tweaked by changing the `height` attributes above to fit your preferred layout.
+
+---
+
+If you find this helpful, consider opening issues/PRs for improvements ✨
+# Shoe App 👟
+
 A **Flutter-based mobile application** designed to offer an excellent shopping experience for users to browse, select, and purchase shoes from a variety of categories.
 
 ---
@@ -11,15 +75,6 @@ A **Flutter-based mobile application** designed to offer an excellent shopping e
 
 ---
 
-## Screenshots 📸
-
-Include a few screenshots of your app to showcase the UI and features. Example:
-
-<img src="https://github.com/Sandy99098/Shoe_app/blob/main/screenshots/ProductDetails.png" alt="Product Details">
-<img src="https://github.com/Sandy99098/Shoe_app/blob/main/screenshots/homeScreen.png" alt="Home Screen">
-<img src="https://github.com/Sandy99098/Shoe_app/blob/main/screenshots/carts.png" alt="Cart Screen">
-
----
 
 ## Getting Started 🚗
 
@@ -34,7 +89,7 @@ Make sure you have **Flutter** and **Dart** installed on your system. You can do
 
 1. First, clone the repository:
    ```bash
-   git clone https://github.com/Sandy99098/shoe_app.git
+   git clone https://github.com/the-eternalXchaos/shoe_app.git
 
 
 A few resources to get you started if this is your first Flutter project:
